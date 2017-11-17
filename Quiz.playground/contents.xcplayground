@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='1 - Optional'/>
+        <page name='2 - Tupple'/>
+        <page name='3 - Type Casting'/>
+        <page name='4 - Generics'/>
+        <page name='5 - Protocol - I'/>
+        <page name='6 - Protocol - II'/>
+        <page name='7 - Enum + Protocol + Generics'/>
+        <page name='8 - Error Handling'/>
+    </pages>
+</playground>
